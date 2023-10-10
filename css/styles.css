@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Urbanist';
+    src: url("../fonts/Urbanist-ExtraLight.woff2");
+    font-weight: 200;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Urbanist';
+    src: url("../fonts/Urbanist-Regular.woff2");
+    font-weight: 400;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Urbanist';
+    src: url("../fonts/Urbanist-Medium.woff2");
+    font-weight: 500;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Urbanist';
+    src: url("../fonts/Urbanist-SemiBold.woff2");
+    font-weight: 600;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Urbanist';
+    src: url("../fonts/Urbanist-Bold.woff2");
+    font-weight: 700;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Urbanist';
+    src: url("../fonts/Urbanist-ExtraBold.woff2");
+    font-weight: 800;
+    font-display: swap;
+}
+
+:root {
+    --black-text-color: #1A1B1B;
+    --grey-decoration-line: #D4D4D4;
+    --white-background-color: #FFF;
+    --blue-text-color: #0B3462;
+    --light-blue: #006CE5;
+    --footer-background: #EEF2F3;
+    --input-background: #DCE4E7;
+    --grey-text: #919191;
+}
+
+body {
+    font-family: 'Urbanist', sans-serif;
+}
+
